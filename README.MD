@@ -36,7 +36,7 @@ To run this project locally:
 
 1. Clone the Repository
 
-git clone https://github.com/yourusername/repository-name.git
+git clone https://github.com/Rajarshirexx/gemini-chat-app.git
 cd repository-name
 
 2. Install dependencies
