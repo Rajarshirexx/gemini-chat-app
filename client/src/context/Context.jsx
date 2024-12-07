@@ -26,7 +26,7 @@ function ContextProvider(props) {
   // Fetch the response from the server
   const fetchResponse = async (promptToSend) => {
     try {
-      const res = await fetch("http://localhost:3000/api/prompt", {
+      const res = await fetch("https://gemini-chat-app-backend.onrender.com", {
         method: "POST", // POST request
         headers: {
           "Content-Type": "application/json", // Ensure the content type is JSON
